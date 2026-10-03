@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/beltei-clone/static/css/main.e84d2300.css",
+    "main.js": "/beltei-clone/static/js/main.bd45a236.js",
+    "static/js/453.aee8c609.chunk.js": "/beltei-clone/static/js/453.aee8c609.chunk.js",
+    "static/media/logo.svg": "/beltei-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/beltei-clone/index.html",
+    "main.e84d2300.css.map": "/beltei-clone/static/css/main.e84d2300.css.map",
+    "main.bd45a236.js.map": "/beltei-clone/static/js/main.bd45a236.js.map",
+    "453.aee8c609.chunk.js.map": "/beltei-clone/static/js/453.aee8c609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e84d2300.css",
+    "static/js/main.bd45a236.js"
+  ]
+}
